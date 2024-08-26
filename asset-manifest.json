@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d59f253f.css",
-    "main.js": "/static/js/main.b066db24.js",
+    "main.js": "/static/js/main.72b1c0b1.js",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.52adde0de9840940801f.eot",
     "static/media/materialdesignicons-webfont.ttf?v=5.8.55": "/static/media/materialdesignicons-webfont.506bc8215df8660d8f04.ttf",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.3a909e9bcf105f28ebe7.svg",
@@ -57,14 +57,15 @@
     "static/media/crashy-spark-block.png": "/static/media/crashy-spark-block.12a2fa3130b36c096b73.png",
     "static/media/alchemy-lab.png": "/static/media/alchemy-lab.5cdc6a94eeb0c5316d05.png",
     "static/media/loom.png": "/static/media/loom.e5411ba8fc8365454682.png",
+    "static/media/arty-spark-block.png": "/static/media/arty-spark-block.970e3a430a2cb637940a.png",
     "static/media/stumpy-spark-block.png": "/static/media/stumpy-spark-block.0f3881fabd9e50e92f56.png",
     "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.9901a8a015a7c672ad758f00c081e10c.svg",
     "main.d59f253f.css.map": "/static/css/main.d59f253f.css.map",
-    "main.b066db24.js.map": "/static/js/main.b066db24.js.map"
+    "main.72b1c0b1.js.map": "/static/js/main.72b1c0b1.js.map"
   },
   "entrypoints": [
     "static/css/main.d59f253f.css",
-    "static/js/main.b066db24.js"
+    "static/js/main.72b1c0b1.js"
   ]
 }
